@@ -55,3 +55,5 @@
 [edabit](https://edabit.com/challenges)
 
 [freecodecamp](https://www.freecodecamp.org/learn)
+
+[w3resource](https://www.w3resource.com/javascript/javascript.php)
