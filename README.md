@@ -57,3 +57,7 @@
 [freecodecamp](https://www.freecodecamp.org/learn)
 
 [w3resource](https://www.w3resource.com/javascript/javascript.php)
+
+[Coding Addict](https://www.youtube.com/channel/UCMZFwxv5l-XtKi693qMJptA)
+
+[Daily Tuition](https://www.youtube.com/channel/UCrG2Z0usOCCdUTAr4D1A8mw)
